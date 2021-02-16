@@ -21,6 +21,7 @@ The Office dataset contains 31 object categories from an office environment in 3
 - Source Domain: *Amazon*  
 - Target Domain: *Webcam*
 
+![test acc](./result.png)
 
 
 # Acknowledgment
